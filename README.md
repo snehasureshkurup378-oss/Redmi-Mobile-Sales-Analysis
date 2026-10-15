@@ -28,3 +28,6 @@ Key Performance Indicators
 -Total Profit
 -Total Quantity
 -Total Orders
+
+## Dashboard Preview
+![Redmi Mobile Sales Dashboard](DASHBOARD%20OVERVIEW.jpeg)
